@@ -30,4 +30,4 @@ cd automated-fish-species
 
 After setting up the frontend, backend, and model, you can start the project and access it through your web browser.
 
-Enjoy using the Automated Fish Species Identification project! If you have any questions or need assistance, please don't hesitate to reach out to the project maintainers.
+Enjoy using the Automated Fish Species Identification project! If you have any questions or need assistance, please don't hesitate to reach out to us.
