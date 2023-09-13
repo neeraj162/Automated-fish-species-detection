@@ -23,7 +23,7 @@ app.add_middleware(
     allow_headers=['*'],
 )
 
-MODEL = tf.keras.models.load_model("../model3")
+MODEL = tf.keras.models.load_model("./model3")
 labels = {0: 'Black Sea Sprat', 1: 'Gilt-Head Bream', 2: 'Hourse Mackerel', 3: 'Red Mullet', 4: 'Red Sea Bream', 5: 'Sea Bass', 6: 'Shrimp', 7: 'Striped Red Mullet', 8: 'Trout'}
 
 test_generator = tf.keras.preprocessing.image.ImageDataGenerator(
